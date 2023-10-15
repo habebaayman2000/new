@@ -3,7 +3,7 @@ from numpy import full
 #build an array of zeroes
 seq1 = "GCATGCT"
 seq2 = "GATACCA"
-
+h
 n_rows = len("-"+seq1)
 n_columns = len("-"+seq2)
 
